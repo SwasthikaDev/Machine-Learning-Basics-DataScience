@@ -1,6 +1,6 @@
 # Machine-Learning-Basics-DataScience
 
-This contains basic machine learning topics, properly structured and updated. So stay tuned always . 
+This contains basic template for machine learning topics, properly structured and updated. So stay tuned always . 
 Thank you for checking me out. God Bless you :)
 
 
@@ -17,3 +17,5 @@ Mail me if you need any help or want me to explain any part of my code.
 Don't worry we are here to learn and its my pleasure.
 
 God bless you.
+
+Templates for topics like :
