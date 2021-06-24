@@ -101,3 +101,15 @@ Convolutional Neural Networks
 Dimensionality Reduction
 
 Principal Component Analysis
+
+Linear Discriminant Analysis
+
+Kernal PCA
+
+Model Selection AND Boosting
+
+K-Fold Cross Validation
+
+Grid Search
+
+XGBoost
