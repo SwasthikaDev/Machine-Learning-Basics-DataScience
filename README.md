@@ -20,6 +20,8 @@ God bless you.
 
 Templates for topics like : (Topics keep on adding)
 
+In the file template.py  and its ipynb we have:
+
 Data Preprocessing Template
 
 Importing the libraries
